@@ -60,7 +60,7 @@ update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.9 4 >/de
 update-alternatives --set python3 /usr/bin/python3.6
 }
 echo -e "\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\E[38;5;118m        ⇱ BEM VINDO AO SCRIPT DO LINK CLOUD!! ⇲             "
+echo -e "\E[38;5;118m        ⇱ BEM VINDO AO SCRIPT DO LINKCLOUD!! ⇲             "
 echo -e "\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo ""
 echo -e "             \033[1;31mATENCAO! \033[1;37mESSE SCRIPT IRA !\033[0m"
@@ -91,12 +91,12 @@ rm 2lHZ43 > /dev/null 2>&1
 cd /bin/ > /dev/null 2>&1
 rm v2raymanager > /dev/null 2>&1
 wget https://raw.githubusercontent.com/modderajuda/donomodderajuda/main/M/v2raymanager > /dev/null 2>&1
-wget https://raw.githubusercontent.com/linkcloudssh/linkcloudssh/main/M/botteste.sh >/dev/null 2>&1
+wget https://raw.githubusercontent.com/modderajuda/donomodderajuda/main/M/botteste.sh >/dev/null 2>&1
 chmod 777 v2raymanager > /dev/null 2>&1
 chmod 777 botteste.sh >/dev/null 2>&1
 mkdir $HOME/BOT >/dev/null 2>&1
 cd $HOME/BOT
-wget https://raw.githubusercontent.com/linkcloudssh/linkcloudssh/main/I/ShellBot.sh >/dev/null 2>&1
+wget https://raw.githubusercontent.com/modderajuda/donomodderajuda/main/I/ShellBot.sh >/dev/null 2>&1
 chmod 777 ShellBot.sh >/dev/null 2>&1
 cd > /dev/null 2>&1
 #-----------------------------------------------------------------------------------------------------------------
